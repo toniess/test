@@ -1,9 +1,12 @@
  // added 18 April
+ import Foundation
 import Uikit
 
 start new project:
 
 descriptions: 
+
+void __global() -> nil;
 
 
 class Controller {
